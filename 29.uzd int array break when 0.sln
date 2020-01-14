@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29.uzd int array break when 0", "29.uzd int array break when 0\29.uzd int array break when 0.csproj", "{3FD35C8F-31FB-40DB-B98B-7E9132CD9C50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD35C8F-31FB-40DB-B98B-7E9132CD9C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD35C8F-31FB-40DB-B98B-7E9132CD9C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD35C8F-31FB-40DB-B98B-7E9132CD9C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD35C8F-31FB-40DB-B98B-7E9132CD9C50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E20C60-B44B-41D3-9A71-F97E92D21D1B}
+	EndGlobalSection
+EndGlobal
